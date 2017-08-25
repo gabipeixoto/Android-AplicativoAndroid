@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabmp\Desktop\Adivinha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ebab95271960d39bceec50d4933595ce6c9cd5e">
+        <dex dex="C:\Users\gabmp\Desktop\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a8042b0cc2df2268059bb140e098c6f2be0ff51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabmp\Desktop\Adivinha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\gabmp\Desktop\Adivinha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b53feedce4d3e4711d1198d4fe849c69164661ef\classes.dex" />
+    </item>
+
+</items>

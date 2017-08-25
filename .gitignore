@@ -1,9 +1,55 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
+# Arquivos de aplicativos criados
+* .apk
+* .ap_
+
+# Arquivos para o ART / Dalvik VM
+* .dex
+
+# Arquivos de classe Java
+*.classe
+
+# Arquivos gerados
+Bin /
+Gen /
+Fora/
+
+# Arquivos Gradle
+.gradle /
+construir/
+
+# Arquivo de configuração local (caminho sdk, etc.)
+Propriedades locais
+
+# Pasta Proguard gerada pelo Eclipse
+Proguard /
+
+# Arquivos de log
+*.registro
+
+# Arquivos temporários do editor de navegação Studio Studio
+.navegação/
+
+# Android Studio captura pasta
+Captura /
+
+# Intellij
+* .iml
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / gradle.xml
+.idea / dictionaries
+.idea / bibliotecas
+
+# Arquivos de armazenamento de chaves
+* .jks
+
+# Pasta de compilação nativa externa gerada no Android Studio 2.2 e posterior
 .externalNativeBuild
+
+# Serviços do Google (por exemplo, APIs ou Firebase)
+Google-services.json
+
+# Linha gratuita
+Freeline.py
+Linha gratuita/
+Freeline_project_description.json
